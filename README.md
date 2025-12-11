@@ -13,7 +13,7 @@
 ## Структура проекта
 
 ```
-/translation
+/i18n-tools
 │
 ├── package.json      
 ├── .eslintrc
