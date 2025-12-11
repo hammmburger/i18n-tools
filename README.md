@@ -2,13 +2,13 @@
 
 ## Стек технологий
 
-Build Tool: Vite
-Package Manager: Yarn
-Backend: Node.JS, TypeScript, Vitest (?)
-Frontend: Commander.js
-Archive Processor: libarchive.js
-Deployment: Docker
-Code Style: prettier, eslint
+- Build Tool: Vite
+- Package Manager: Yarn
+- Backend: Node.JS, TypeScript, Vitest (?)
+- Frontend: Commander.js
+- Archive Processor: libarchive.js
+- Deployment: Docker
+- Code Style: prettier, eslint
 
 ## Структура проекта
 
