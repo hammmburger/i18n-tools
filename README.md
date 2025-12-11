@@ -12,6 +12,7 @@ Code Style: prettier, eslint
 
 ## Структура проекта
 
+```
 /translation
 │
 ├── package.json      
@@ -37,6 +38,7 @@ Code Style: prettier, eslint
 │
 └── docker/
     └── Dockerfile
+```
 
 ## ТЗ
 
